@@ -1,3 +1,5 @@
 [user]
 	email = shahshadab1680@gmail.com
 	name = Shadab Shah
+[pull]
+	rebase = true
