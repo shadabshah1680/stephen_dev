@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+|2,0,1655406903,,"q!"
 :wq
 |2,0,1655399446,,"wq"
-:q!
-|2,0,1655398814,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -27,22 +27,43 @@
 # Registers:
 
 # File marks:
-'0  8  43  ~/.git/config
-|4,48,8,43,1655399446,"~/.git/config"
-'1  8  23  ~/.git/config
-|4,49,8,23,1655398814,"~/.git/config"
+'0  6  20  ~/Dockerrun.aws.json
+|4,48,6,20,1655406903,"~/Dockerrun.aws.json"
+'1  8  43  ~/.git/config
+|4,49,8,43,1655399446,"~/.git/config"
+'2  8  23  ~/.git/config
+|4,50,8,23,1655398814,"~/.git/config"
 
 # Jumplist (newest first):
+-'  6  20  ~/Dockerrun.aws.json
+|4,39,6,20,1655406903,"~/Dockerrun.aws.json"
+-'  1  0  ~/Dockerrun.aws.json
+|4,39,1,0,1655406886,"~/Dockerrun.aws.json"
 -'  8  43  ~/.git/config
 |4,39,8,43,1655399446,"~/.git/config"
+-'  8  43  ~/.git/config
+|4,39,8,43,1655399446,"~/.git/config"
+-'  8  23  ~/.git/config
+|4,39,8,23,1655398814,"~/.git/config"
 -'  8  23  ~/.git/config
 |4,39,8,23,1655398814,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1655398787,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1655398787,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1655398787,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1655398787,"~/.git/config"
 
 # History of marks within files (newest to oldest):
+
+> ~/Dockerrun.aws.json
+	*	1655406900	0
+	"	6	20
+	^	6	21
+	.	6	16
+	+	6	16
 
 > ~/.git/config
 	*	1655399436	0
